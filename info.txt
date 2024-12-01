@@ -1,0 +1,47 @@
+# PSN Unfriender
+
+**PSN Unfriender** est un outil en Python conçu pour vous aider à gérer efficacement votre liste d'amis sur le PlayStation Network. Avec ce script, vous pouvez :
+
+- Supprimer automatiquement des amis en fonction de critères personnalisés basés sur leurs noms d'utilisateur.
+- Maintenir une liste d'amis en définissant des motifs (patterns) spécifiques que vous souhaitez conserver.
+- Automatiser la gestion d'une longue liste d'amis tout en respectant les limites de l'API PlayStation.
+
+## Points clés :
+- **Rapide et efficace** : Automatisez les actions sur votre liste d'amis.
+- **Personnalisable** : Utilisez des expressions régulières (regex) pour définir les amis à conserver.
+- **Sûr et pratique** : Exploite l'API officielle de PlayStation pour des interactions sécurisées.
+
+### Pourquoi utiliser PSN Unfriender ?
+Ce script est particulièrement utile pour les joueurs qui souhaitent garder leur liste d'amis propre et organisée sans devoir effectuer des suppressions manuelles, souvent fastidieuses.
+
+### Fonctionnalités principales :
+- **Authentification sécurisée** avec un jeton `npsso`.
+- **Détection des amis à supprimer** en fonction de critères que vous personnalisez.
+- **Gestion des erreurs API**, avec des limites respectées pour éviter les blocages temporaires.
+- **Sortie claire et colorée** pour mieux comprendre le processus.
+
+Essayez **PSN Unfriender** pour reprendre le contrôle de votre liste d'amis sur PlayStation Network !
+
+---
+
+**PSN Unfriender** is a Python tool designed to efficiently manage your friend list on the PlayStation Network. With this script, you can:
+
+- Automatically remove friends based on custom criteria related to their usernames.
+- Retain specific friends by defining regex-based patterns.
+- Automate the management of long friend lists while respecting PlayStation API limits.
+
+## Key Features:
+- **Fast and efficient**: Automate actions on your friend list.
+- **Customizable**: Use regex patterns to define which friends to keep.
+- **Safe and convenient**: Leverages PlayStation's official API for secure interactions.
+
+### Why use PSN Unfriender?
+This script is particularly useful for players who want to keep their friend list clean and organized without the hassle of manually removing users.
+
+### Main Features:
+- **Secure authentication** using an `npsso` token.
+- **Friend detection and removal** based on customizable criteria.
+- **Error handling**, with respect for API rate limits to avoid temporary blocks.
+- **Clear and colorful output** to better understand the process.
+
+Try **PSN Unfriender** to take control of your PlayStation Network friend list!
